@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/*-- scss:defaults --*/
+
+$link-color: #447099;
+$font-family: 'Noto Serif Thai', serif;
+$presentation-title-slide-text-align: center;
+$presentation-slide-text-align: left;
+$presentation-picture-text-align: center;
+$presentation-block-margin: 12px;
+
+/*-- scss:rules --*/
+
+h2 {
+  color: #447099 !important;
+}
+h3 {
+  color: #447099 !important;
+}
